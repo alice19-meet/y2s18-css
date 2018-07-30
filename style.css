@@ -1,4 +1,19 @@
 p {
 	background-color:turquoise;
 	color:white;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+    
 }
+
+h1 {
+	color:lime;
+}
+
+a{
+	color:pink;
+}
+
+.vegetarian{color:red;}
+.non-veg{color:blue;}
+
